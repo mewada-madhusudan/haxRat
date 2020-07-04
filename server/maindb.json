@@ -1,7 +1,7 @@
 {
   "admin": {
-    "username": "admin",
-    "password": "bf45e08189f2ec58a9d4768744f8faae",
+    "username": "root",
+    "password": "d703c486fd4ead0a8d3bb7ca1832570b",
     "loginToken": "",
     "logs": [],
     "ipLog": []
